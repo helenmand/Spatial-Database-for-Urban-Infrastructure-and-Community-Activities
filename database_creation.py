@@ -212,7 +212,7 @@ insert_queries = [
     "INSERT INTO Road (rid, name, lanes, type, location) VALUES (2, 'Diagonal Road', 2, 'Local', ST_GeomFromText('LINESTRING(28 40, 25 15)'));",
     "INSERT INTO Road (rid, name, lanes, type, location) VALUES (3, 'East-West Boulevard', 2, 'Local', ST_GeomFromText('LINESTRING(25 35, 40 20)'));",
     "INSERT INTO Road (rid, name, lanes, type, location) VALUES (4, 'North-South Avenue', 2, 'Local', ST_GeomFromText('LINESTRING(15 15, 15 20)'));",
-    "INSERT INTO Road (rid, name, lanes, type, location) VALUES (5, 'Central Street', 2, 'Local', ST_GeomFromText('LINESTRING(19.8 75, 29.8 75)'));",
+    "INSERT INTO Road (rid, name, lanes, type, location) VALUES (5, 'Central Street', 2, 'Local', ST_GeomFromText('LINESTRING(20 75, 29.8 75)'));",
     "INSERT INTO Road (rid, name, lanes, type, location) VALUES (6, 'Parkside Drive', 2, 'Local', ST_GeomFromText('LINESTRING(70 75, 80 75)'));",
     "INSERT INTO Road (rid, name, lanes, type, location) VALUES (7, 'Vertical Lane', 2, 'Local', ST_GeomFromText('LINESTRING(74 70, 74 40)'));",
     "INSERT INTO Road (rid, name, lanes, type, location) VALUES (8, 'Outer Loop Road', 2, 'Local', ST_GeomFromText('LINESTRING(100 15, 103 15, 103 55, 100 55)'));",
